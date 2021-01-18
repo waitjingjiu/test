@@ -1,0 +1,101 @@
+Rank,Name,Pay,Salary/Winnings,Endorsements,Sport,Year
+#1,Lionel Messi,$127 M,$92 M,$35 M,Soccer,2019
+#2,Cristiano Ronaldo,$109 M,$65 M,$44 M,Soccer,2019
+#3,Neymar,$105 M,$75 M,$30 M,Soccer,2019
+#4,Canelo Alvarez,$94 M,$92 M,$2 M,Boxing,2019
+#5,Roger Federer,$93.4 M,$7.4 M,$86 M,Tennis,2019
+#6,Russell Wilson,$89.5 M,$80.5 M,$9 M,Football,2019
+#7,Aaron Rodgers,$89.3 M,$80.3 M,$9 M,Football,2019
+#8,LeBron James,$89 M,$36 M,$53 M,Basketball,2019
+#9,Stephen Curry,$79.8 M,$37.8 M,$42 M,Basketball,2019
+#10,Kevin Durant,$65.4 M,$30.4 M,$35 M,Basketball,2019
+#11,Tiger Woods,$63.9 M,$9.9 M,$54 M,Golf,2019
+#12,Ben Roethlisberger,$55.5 M,$54.5 M,$1 M,Football,2019
+#13,Lewis Hamilton,$55 M,$45 M,$10 M,Auto Racing,2019
+#13,Anthony Joshua,$55 M,$45 M,$10 M,Boxing,2019
+#13,Khalil Mack,$55 M,$54 M,$1 M,Football,2019
+#16,Russell Westbrook,$53.7 M,$35.7 M,$18 M,Basketball,2019
+#17,Novak Djokovic,$50.6 M,$20.6 M,$30 M,Tennis,2019
+#17,Mike Trout,$50.6 M,$47.6 M,$3 M,Baseball,2019
+#19,Phil Mickelson,$48.4 M,$12.4 M,$36 M,Golf,2019
+#20,James Harden,$47.7 M,$30.7 M,$17 M,Basketball,2019
+#21,Conor McGregor,$47 M,$32 M,$15 M,Mixed Martial Arts,2019
+#22,DeMarcus Lawrence,$46.9 M,$46.8 M,$150 K,Football,2019
+#23,Bryce Harper,$44.5 M,$38 M,$6.5 M,Baseball,2019
+#24,Chris Paul,$43.8 M,$35.8 M,$8 M,Basketball,2019
+#25,Kyrie Irving,$43.3 M,$20.3 M,$23 M,Basketball,2019
+#26,Giannis Antetokounmpo,$43.2 M,$24.2 M,$19 M,Basketball,2019
+#27,Drew Brees,$42.4 M,$26.4 M,$16 M,Football,2019
+#28,Aaron Donald,$41.4 M,$40.9 M,$500 K,Football,2019
+#29,Damian Lillard,$41.1 M,$28.1 M,$13 M,Basketball,2019
+#30,Sebastian Vettel,$40.3 M,$40 M,$300 K,Auto Racing,2019
+#31,Blake Griffin,$39.1 M,$32.1 M,$7 M,Basketball,2019
+#32,Rory McIlroy,$39 M,$8 M,$31 M,Golf,2019
+#33,Paul George,$38.6 M,$30.6 M,$8 M,Basketball,2019
+#34,Brandin Cooks,$38 M,$37.5 M,$500 K,Football,2019
+#35,Kei Nishikori,$37.3 M,$4.3 M,$33 M,Tennis,2019
+#36,Nick Foles,$35.8 M,$33.8 M,$2 M,Football,2019
+#37,Rafael Nadal,$35 M,$9 M,$26 M,Tennis,2019
+#38,Manny Machado,$34.8 M,$34.3 M,$500 K,Baseball,2019
+#39,Anthony Davis,$34.6 M,$25.6 M,$9 M,Basketball,2019
+#40,Gordon Hayward,$34.3 M,$31.3 M,$3 M,Basketball,2019
+#40,Klay Thompson,$34.3 M,$19.3 M,$15 M,Basketball,2019
+#42,Carmelo Anthony,$34 M,$28 M,$6 M,Basketball,2019
+#43,Kyle Lowry,$33.8 M,$32.3 M,$1.5 M,Basketball,2019
+#44,Paul Pogba,$33 M,$29 M,$4 M,Soccer,2019
+#45,DeMar DeRozan,$32.8 M,$27.8 M,$5 M,Basketball,2019
+#46,Andres Iniesta,$32.5 M,$30 M,$2.5 M,Soccer,2019
+#47,Justin Rose,$32.4 M,$18.4 M,$14 M,Golf,2019
+#48,Joel Embiid,$32.1 M,$25.6 M,$6.5 M,Basketball,2019
+#49,Al Horford,$32 M,$29 M,$3 M,Basketball,2019
+#50,David Price,$31.7 M,$30.7 M,$950 K,Baseball,2019
+#51,Mike Conley Jr.,$31.5 M,$30.5 M,$1 M,Basketball,2019
+#52,Jordan Spieth,$31.1 M,$2.1 M,$29 M,Golf,2019
+#53,Alexis Sánchez,$30.8 M,$28.3 M,$2.5 M,Soccer,2019
+#54,Clayton Kershaw,$30.7 M,$30 M,$700 K,Baseball,2019
+#55,Kylian Mbappe,$30.6 M,$26.6 M,$4 M,Soccer,2019
+#56,Deontay Wilder,$30.5 M,$30 M,$500 K,Boxing,2019
+#57,Trey Flowers,$30.2 M,$30 M,$250 K,Football,2019
+#57,Mesut Ozil,$30.2 M,$23.7 M,$6.5 M,Soccer,2019
+#59,Paul Millsap,$30.1 M,$29.6 M,$500 K,Basketball,2019
+#60,Matt Ryan,$29.8 M,$24.8 M,$5 M,Football,2019
+#61,Justin Verlander,$29.5 M,$28.5 M,$1 M,Baseball,2019
+#62,Yoenis Cespedes,$29.4 M,$29 M,$400 K,Baseball,2019
+#63,Miguel Cabrera,$29.2 M,$28.7 M,$500 K,Baseball,2019
+#63,Serena Williams,$29.2 M,$4.2 M,$25 M,Tennis,2019
+#65,Geno Atkins,$29.1 M,$29 M,$75 K,Football,2019
+#66,Oscar,$29 M,$27 M,$2 M,Soccer,2019
+#66,Earl Thomas,$29 M,$28.5 M,$500 K,Football,2019
+#68,Jake Arrieta,$28.8 M,$28.3 M,$500 K,Baseball,2019
+#68,C.J. McCollum,$28.8 M,$25.8 M,$3 M,Basketball,2019
+#70,Kawhi Leonard,$28.7 M,$23.2 M,$5.5 M,Basketball,2019
+#71,Kevin Love,$28.4 M,$24.4 M,$4 M,Basketball,2019
+#72,Justin Houston,$28.2 M,$28 M,$200 K,Football,2019
+#73,Albert Pujols,$28 M,$27.3 M,$700 K,Baseball,2019
+#74,Dwight Howard,$27.8 M,$24.3 M,$3.5 M,Basketball,2019
+#75,Antoine Griezmann,$27.7 M,$23.2 M,$4.5 M,Soccer,2019
+#76,Jrue Holiday,$27.6 M,$27.1 M,$500 K,Basketball,2019
+#77,Giancarlo Stanton,$27.4 M,$25.4 M,$2 M,Baseball,2019
+#78,Steven Adams,$27.2 M,$24.2 M,$3 M,Basketball,2019
+#79,Gareth Bale,$27.1 M,$20.6 M,$6.5 M,Soccer,2019
+#79,Bradley Beal,$27.1 M,$25.6 M,$1.5 M,Basketball,2019
+#81,Tom Brady,$27 M,$15 M,$12 M,Football,2019
+#82,Andrew Luck,$26.9 M,$24.1 M,$2.8 M,Football,2019
+#82,C.J. Mosley,$26.9 M,$26.7 M,$150 K,Football,2019
+#84,Felix Hernandez,$26.6 M,$26.3 M,$300 K,Baseball,2019
+#85,Odell Beckham Jr.,$26.5 M,$21.5 M,$5 M,Football,2019
+#85,Otto Porter Jr.,$26.5 M,$26 M,$500 K,Basketball,2019
+#87,Andre Drummond,$26.4 M,$25.4 M,$1 M,Basketball,2019
+#88,Harrison Barnes,$26.3 M,$24.8 M,$1.5 M,Basketball,2019
+#89,Nikola Jokic,$26.2 M,$25.5 M,$750 K,Basketball,2019
+#89,Hassan Whiteside,$26.2 M,$25.4 M,$750 K,Basketball,2019
+#91,Andrew Wiggins,$26.1 M,$25.5 M,$600 K,Basketball,2019
+#92,Manny Pacquiao,$26 M,$24 M,$2 M,Boxing,2019
+#93,Saquon Barkley,$25.8 M,$21.3 M,$4.5 M,Football,2019
+#94,J.D. Martinez,$25.6 M,$24.9 M,$700 K,Baseball,2019
+#95,Gennady Golovkin,$25.5 M,$23 M,$2.5 M,Boxing,2019
+#96,Joey Votto,$25.4 M,$25.1 M,$300 K,Baseball,2019
+#97,Jon Lester,$25.3 M,$25 M,$300 K,Baseball,2019
+#98,Marc Gasol,$25.1 M,$24.1 M,$1 M,Basketball,2019
+#98,Mohamed Salah,$25.1 M,$16.1 M,$9 M,Soccer,2019
+#100,Virat Kohli,$25 M,$4 M,$21 M,Cricket,2019
